@@ -41,4 +41,4 @@ Your app should allow a user to:
 
 • Tags (e.g. geography, preferred investment type, preferred industry)
 
-4. Use a simple front-end or Postman to test API endpoints
+4. Use a simple front-end (FastAPI) to test API endpoints
