@@ -1,3 +1,4 @@
+# Sample for your reference
 from fastapi import FastAPI
 from pydantic import BaseModel
 from sentence_transformers import SentenceTransformer
@@ -6,7 +7,6 @@ import numpy as np
 
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
-# Dummy data
 texts = [
     "Japan is famous for cherry blossoms and cutting-edge tech.",
     "India is home to the world’s largest democracy and spicy food.",
