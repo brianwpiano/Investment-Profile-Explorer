@@ -13,7 +13,7 @@ You will design and implement a search algorithm using pre-prepared data (see fi
 ## Learning Structure
 
 This project will use a peer-teaching model:
-• Each team member will deep dive into one topic and prepare a brief tutorial to teach the rest of the group. Topics are as follow:
+Each team member will deep dive into one topic and prepare a brief tutorial to teach the rest of the group. Topics are as follow:
 
 • Vector Search
 
