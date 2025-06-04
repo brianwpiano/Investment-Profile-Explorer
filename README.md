@@ -37,8 +37,8 @@ Your app should allow a user to:
 
 • Tag filtering
 
-4. Filter results by:
+3. Filter results by:
 
 • Tags (e.g. geography, preferred investment type, preferred industry)
 
-5. Use a simple front-end or Postman to test API endpoints
+4. Use a simple front-end or Postman to test API endpoints
