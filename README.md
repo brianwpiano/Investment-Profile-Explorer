@@ -21,8 +21,9 @@ This project will use a peer-teaching model:
 
 • Topic Modeling
 
-• Indexing & Filtering
+• Indexing
 
+• Filtering
 
 ## Features
 
