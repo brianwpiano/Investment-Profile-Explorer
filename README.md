@@ -29,9 +29,15 @@ This project will use a peer-teaching model:
 Your app should allow a user to:
 1. Enter a search query (e.g. keywords or a sentence)
 2. See the most relevant results, based on:
+   
 • Vector similarity
+
 • Topic alignment
+
 • Tag filtering
-3. Filter results by:
+
+4. Filter results by:
+
 • Tags (e.g. geography, preferred investment type, preferred industry)
-4. Use a simple front-end or Postman to test API endpoints
+
+5. Use a simple front-end or Postman to test API endpoints
