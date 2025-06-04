@@ -2,7 +2,7 @@
 
 ## Overview
 
-You will design and implement a search algorithm using pre-prepared data (see Files). The end goal is to build a FastAPI-based web service that allows users to search through this data using a combination of:
+You will design and implement a search algorithm using pre-prepared data (see files). The end goal is to build a FastAPI-based web service that allows users to search through this data using a combination of:
 	
  • Vector search
 	
