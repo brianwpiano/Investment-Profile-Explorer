@@ -3,9 +3,12 @@
 ## Overview
 
 You will design and implement a search algorithm using pre-prepared data (see Files). The end goal is to build a FastAPI-based web service that allows users to search through this data using a combination of:
-	•	Vector search
-	•	Tag-based filtering
-	•	Topic modeling
+	
+ •Vector search
+	
+ •Tag-based filtering
+	
+ •Topic modeling
 
 ## Learning Structure
 
