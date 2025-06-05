@@ -5,13 +5,12 @@
 You will analyze and visualize a pre-prepared dataset containing investment profiles. This project focuses on data exploration, clustering, and interactive visualization.
 
 ## Objectives
-	•	Apply PCA, t-SNE, and UMAP to visualize high-dimensional data
+	•	Apply any visualization tools (PCA/t-SNE/UMAP/tools that you have learnt in class) to visualize high-dimensional data
 	•	Perform clustering (e.g. K-Means, DBSCAN) and interpret results
 	•	Create dashboards or graphs to show patterns in the data
-	•	Optionally, use LLMs to extract or summarize insights (not required)
 
 ## Deliverables
-	1.	Dimensionality reduction visualizations (PCA, UMAP, t-SNE)
+	1.	Dimensionality reduction visualizations
 	2.	Clustering analysis and insights
 	3.	Graphs showing trends (e.g. investment types by cluster)
 	4.	Interactive Dashboard (e.g. using Streamlit or Plotly Dash)
