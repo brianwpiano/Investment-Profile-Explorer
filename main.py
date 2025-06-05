@@ -42,5 +42,5 @@ def search(req: QueryRequest):
     results = [data[i] for i in indices[0]]
     return {"query": req.query, "results": results}
 
-# in terminal, enter 'uvicorn main:app --reload'
-# http://127.0.0.1:8000/docs
+# # in terminal, enter 'uvicorn main:app --reload'
+# # http://127.0.0.1:8000/docs
