@@ -10,7 +10,7 @@ You will analyze and visualize a pre-prepared dataset containing investment prof
 	•	Create dashboards or graphs to show patterns in the data
 
 ## Deliverables
-	1.	Dimensionality reduction visualizations
+	1.	Dimensionality reduction visualizations (PCA, t-SNE or UMAP)
 	2.	Clustering analysis and insights
 	3.	Graphs showing trends (e.g. investment types by cluster)
 	4.	Interactive Dashboard
