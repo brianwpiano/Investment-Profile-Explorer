@@ -17,7 +17,7 @@ You will analyze and visualize a pre-prepared dataset containing investment prof
 	5.	Team Presentation of findings
 
 ## Sample Questions to Explore
-You should explore at least 10 questions in total. Below are a few examples to help guide your analysis:
+### You should explore at least 10 questions in total. Below are a few examples to help guide your analysis:
 	•	What kinds of investors are present in this dataset?
 	•	Can we group investors by shared interests or patterns?
 	•	What are the main investment types or industries by cluster?
