@@ -1,44 +1,24 @@
-# Search-Project
+# Investment Profile Explorer
 
 ## Overview
 
-You will design and implement a search algorithm using pre-prepared data (see files). The end goal is to build a FastAPI-based web service that allows users to search through this data using a combination of:
-	
- • Vector search
-	
- • Tag-based filtering
-	
- • Topic modeling
+You will analyze and visualize a pre-prepared dataset containing investment profiles. This project focuses on data exploration, clustering, and interactive visualization.
 
-## Learning Structure
+## Objectives
+	•	Apply PCA, t-SNE, and UMAP to visualize high-dimensional data
+	•	Perform clustering (e.g. K-Means, DBSCAN) and interpret results
+	•	Create dashboards or graphs to show patterns in the data
+	•	Optionally, use LLMs to extract or summarize insights (not required)
 
-This project will use a peer-teaching model:
-Each team member will deep dive into one topic and prepare a brief tutorial to teach the rest of the group. Topics are as follow:
+## Deliverables
+	1.	Dimensionality reduction visualizations (PCA, UMAP, t-SNE)
+	2.	Clustering analysis and insights
+	3.	Graphs showing trends (e.g. investment types by cluster)
+	4.	Interactive Dashboard (e.g. using Streamlit or Plotly Dash)
+	5.	Team Presentation of findings
 
-• Vector Search
-
-• Fast API
-
-• Topic Modeling
-
-• Indexing
-
-• Filtering
-
-## Features
-
-Your app should allow a user to:
-1. Enter a search query (e.g. keywords or a sentence)
-2. See the most relevant results, based on:
-   
-• Vector similarity
-
-• Topic alignment
-
-• Tag filtering
-
-3. Filter results by:
-
-• Tags (e.g. geography, preferred investment type, preferred industry)
-
-4. Use a simple front-end (FastAPI) to test API endpoints
+## Sample Questions to Explore
+	•	What kinds of investors are present in this dataset?
+	•	Can we group investors by shared interests or patterns?
+	•	What are the main investment types or industries by cluster?
+	•	How do we interpret the 2D/3D visualizations?
